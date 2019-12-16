@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36affe85-44ba-40d1-93db-75346841217e" name="Default" comment="" />
+    <list default="true" id="36affe85-44ba-40d1-93db-75346841217e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Spring1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-beans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-beans/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/spring-helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/spring-helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/src/main/java/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/src/main/java/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/src/main/java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/target/classes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/target/classes/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/target/classes/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-helloworld/target/classes/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-helloworld/target/classes/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-types-of-wiring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-types-of-wiring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Duck5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Duck5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Egg6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Egg6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Needle7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Needle7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Rabbit4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Rabbit4.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,11 +51,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1Uv9VSN6nD6N0OL2VcBKIuaC5JR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -37,6 +67,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="koschei.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NoName\Desktop\Spring1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,16 +107,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,12 +155,24 @@
       <workItem from="1573656090844" duration="5878000" />
       <workItem from="1573805479356" duration="620000" />
       <workItem from="1574420224747" duration="1094000" />
-      <workItem from="1576226227778" duration="2824000" />
+      <workItem from="1576226227778" duration="3453000" />
+      <workItem from="1576499976990" duration="1994000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

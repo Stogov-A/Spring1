@@ -27,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring1/spring-helloworld" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -36,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NoName\Desktop\Spring1" />
       <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring-beans\src\main\java\app\model" />
       <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring-beans\src\main\java\app" />
       <recent name="C:\Users\Святослав\Documents\codeWork\SpringTasks\spring-beans\src\main\java" />
@@ -177,7 +178,7 @@
       <workItem from="1574348125196" duration="3459000" />
       <workItem from="1576071434824" duration="1079000" />
       <workItem from="1576156551455" duration="836000" />
-      <workItem from="1576222605223" duration="3916000" />
+      <workItem from="1576222605223" duration="4674000" />
     </task>
     <servers />
   </component>
